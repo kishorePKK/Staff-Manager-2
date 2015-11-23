@@ -22,6 +22,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    //hello check with the updates
 }
 
 - (void)viewDidUnload
@@ -49,6 +51,11 @@
 - (void)viewDidDisappear:(BOOL)animated
 {
 	[super viewDidDisappear:animated];
+}
+
+-(void)newtestMethod
+{
+   // kgfdgfdbdfn
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
